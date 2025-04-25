@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pose1",
+    "title": "Smiling Child",
+    "image": "child1.jpg",
+    "description": "Ask the child to laugh out loud. Capture the joy.",
+    "category": "Children"
+  },
+  {
+    "id": "pose2",
+    "title": "Family Hug",
+    "image": "group1.jpg",
+    "description": "All members group tightly, with heads close.",
+    "category": "Groups"
+  },
+  {
+    "id": "pose3",
+    "title": "Romantic Gaze",
+    "image": "couple1.jpg",
+    "description": "Have them look into each other's eyes, forehead to forehead.",
+    "category": "Couples"
+  },
+  {
+    "id": "pose4",
+    "title": "Confident Stance",
+    "image": "man1.jpg",
+    "description": "Shoulders back, arms crossed or hands on hips.",
+    "category": "Men"
+  },
+  {
+    "id": "pose5",
+    "title": "Elegant Profile",
+    "image": "woman1.jpg",
+    "description": "Turn head slightly, soft smile. One shoulder toward the camera.",
+    "category": "Women"
+  },
+  {
+    "id": "pose6",
+    "title": "The First Dance",
+    "image": "wedding1.jpg",
+    "description": "Capture the couple mid-spin or soft moment.",
+    "category": "Wedding"
+  },
+  {
+    "id": "pose7",
+    "title": "Glamour Recline",
+    "image": "boudoir1.jpg",
+    "description": "Soft lighting, laying on side with one hand on face.",
+    "category": "Glamour"
+  },
+  {
+    "id": "pose8",
+    "title": "Focus Tip",
+    "image": "tip1.jpg",
+    "description": "Use leading lines to draw attention to the subject.",
+    "category": "Tips"
+  }
+]

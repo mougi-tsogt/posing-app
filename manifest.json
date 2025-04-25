@@ -1,0 +1,9 @@
+{
+  "name": "Posing Guide",
+  "short_name": "Poses",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "A sketch-based posing app for photographers.",
+  "icons": []
+}
