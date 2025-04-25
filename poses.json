@@ -7,11 +7,11 @@
     "category": "Children"
   },
   {
-    "id": "pose2",
-    "title": "Family Hug",
-    "image": "group1.jpg",
-    "description": "All members group tightly, with heads close.",
-    "category": "Groups"
+    "id": "children_1",
+    "title": "Children",
+    "image": "children_2.png",
+    "description": "To make kids more relaxed, try to make them hug or play with their favorite teddy bear or any other toy of their choice.",
+    "category": "Children"
   },
   {
     "id": "pose3",
