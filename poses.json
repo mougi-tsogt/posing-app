@@ -1,6 +1,7 @@
 [
   {
     "id": "children_1",
+<<<<<<< HEAD
     "title": "Natural Expressions",
     "image": "children_1.jpg",
     "description": "Capture genuine emotions and behaviour by photographing children at their own eye level.",
@@ -11,6 +12,18 @@
     "title": "Favourite Toy",
     "image": "children_2.jpg",
     "description": "Let the child hold or play with their favourite toy to help them feel comfortable.",
+=======
+    "title": "Children",
+    "image": "children_1.png",
+    "description": "When photographing children, remember to shoot from their eye level! Concerning poses, though, let them be 'as they are' and try to capture their natural expressions, emotions and behavior.",
+    "category": "Children"
+  },
+  {
+    "id": "children_1",
+    "title": "Children",
+    "image": "children_2.png",
+    "description": "To make kids more relaxed, try to make them hug or play with their favorite teddy bear or any other toy of their choice.",
+>>>>>>> 7d3d1ab0468c560f84330b044c7a9904fb57fc3e
     "category": "Children"
   },
   {
