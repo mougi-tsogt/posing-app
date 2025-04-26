@@ -31,7 +31,7 @@ function loadPoses(category = '') {
   poses.filter(p => !category || p.category === category).forEach(p => {
     const div = document.createElement('div');
     div.className = 'pose';
-    div.innerHTML = `
+div.innerHTML = `
       <h3>${p.title}</h3>
       <img src="images/${p.image}" alt="${p.title}" />
       <p>${p.description}</p>
