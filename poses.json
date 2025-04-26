@@ -1,84 +1,71 @@
 [
   {
     "id": "children_1",
-<<<<<<< HEAD
     "title": "Natural Expressions",
-    "image": "children_1.jpg",
+    "image": "children_1.png",
     "description": "Capture genuine emotions and behaviour by photographing children at their own eye level.",
     "category": "Children"
   },
   {
     "id": "children_2",
     "title": "Favourite Toy",
-    "image": "children_2.jpg",
-    "description": "Let the child hold or play with their favourite toy to help them feel comfortable.",
-=======
-    "title": "Children",
-    "image": "children_1.png",
-    "description": "When photographing children, remember to shoot from their eye level! Concerning poses, though, let them be 'as they are' and try to capture their natural expressions, emotions and behavior.",
-    "category": "Children"
-  },
-  {
-    "id": "children_1",
-    "title": "Children",
     "image": "children_2.png",
-    "description": "To make kids more relaxed, try to make them hug or play with their favorite teddy bear or any other toy of their choice.",
->>>>>>> 7d3d1ab0468c560f84330b044c7a9904fb57fc3e
+    "description": "When photographing children, remember to shoot from their eye level! Concerning poses, though, let them be 'as they are' and try to capture their natural expressions, emotions and behavior.",
     "category": "Children"
   },
   {
     "id": "children_3",
     "title": "Resting Pose",
-    "image": "children_3.jpg",
+    "image": "children_3.png",
     "description": "A relaxed shot of the child laying on one arm, either straight or bent.",
     "category": "Children"
   },
   {
     "id": "children_4",
     "title": "Everyday Moments",
-    "image": "children_4.jpg",
+    "image": "children_4.png",
     "description": "Photograph them doing familiar activities like painting, reading, or playing.",
     "category": "Children"
   },
   {
     "id": "children_5",
     "title": "Unaware Candid",
-    "image": "children_5.jpg",
+    "image": "children_5.png",
     "description": "Set up so the child is focused on their own activity and unaware of the camera.",
     "category": "Children"
   },
   {
     "id": "children_6",
     "title": "Story Time",
-    "image": "children_6.jpg",
+    "image": "children_6.png",
     "description": "Include a parent reading together with the child to create a warm and engaging scene.",
     "category": "Children"
   },
   {
     "id": "children_7",
     "title": "Joyful Reactions",
-    "image": "children_7.jpg",
+    "image": "children_7.png",
     "description": "Look out for moments of laughter or shouting for emotional, memorable shots.",
     "category": "Children"
   },
   {
     "id": "children_8",
     "title": "Funny Faces",
-    "image": "children_8.jpg",
+    "image": "children_8.png",
     "description": "Ask them to show a funny face \u2014 kids often go all out!",
     "category": "Children"
   },
   {
     "id": "children_9",
     "title": "Leaning Portrait",
-    "image": "children_9.jpg",
+    "image": "children_9.png",
     "description": "Simple portrait with arms resting on an object \u2014 suitable for sitting or standing.",
     "category": "Children"
   },
   {
     "id": "children_10",
     "title": "Top-Down Angle",
-    "image": "children_10.jpg",
+    "image": "children_10.png",
     "description": "Try shooting from above for an interesting and playful viewpoint.",
     "category": "Children"
   }
