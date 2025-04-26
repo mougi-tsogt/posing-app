@@ -39,7 +39,7 @@ function showPoseCategories() {
   categories.forEach(cat => {
     const btn = document.createElement('button');
     btn.className = 'nav-button';
-    btn.innerText = cat;
+    btn.innerHTML = `<img src="images/${cat.toLowerCase()}.jpg" alt="${cat}" style="max-width:50px;"/><br/>${cat}`;
     btn.onclick = () => showCategory(cat);
     grid.appendChild(btn);
   });
@@ -52,11 +52,12 @@ function showTipCategories() {
   tipCats.forEach(cat => {
     const btn = document.createElement('button');
     btn.className = 'nav-button';
-    btn.innerText = cat;
+    btn.innerHTML = `<img src="images/${cat.toLowerCase()}_icon.jpg" alt="${cat}" style="max-width:50px;"/><br/>${cat}`;
     btn.onclick = () => showTipCategory(cat);
     grid.appendChild(btn);
   });
 }
+
 
 function showFavourites() {
   const favs = poses.filter(p => favourites.includes(p.id));
