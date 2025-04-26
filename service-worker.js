@@ -1,17 +1,17 @@
 self.addEventListener('install', function(e) {
   e.waitUntil(
-    caches.open('poses-app').then(function(cache) {
+    caches.open('posing-guide').then(function(cache) {
       return cache.addAll([
-        '/poses-app/',
-        '/poses-app/index.html',
-        '/poses-app/css/style.css',
-        '/poses-app/js/app.js',
-        '/poses-app/poses.json'
+        '/',
+        '/index.html',
+        '/css/style.css',
+        '/js/app.js',
+        '/poses.json',
+        '/tips.json'
       ]);
     })
   );
 });
-
 self.addEventListener('fetch', function(e) {
   e.respondWith(
     caches.match(e.request).then(function(response) {
