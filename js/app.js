@@ -125,14 +125,15 @@ function showPoseDetail(items, index) {
 }
 
 function showPrev(items) {
-  const newIndex = (currentItemIndex - 1 + items.length) % items.length;
+  currentItemIndex = (currentItemIndex - 1 + items.length) % items.length;
   showPoseDetail(items, currentItemIndex);
 }
 
 function showNext(items) {
-  const newIndex = (currentItemIndex + 1) % items.length;
+  currentItemIndex = (currentItemIndex + 1) % items.length;
   showPoseDetail(items, currentItemIndex);
 }
+
 
 function backToCategory() {
   showCategory(currentCategory);
