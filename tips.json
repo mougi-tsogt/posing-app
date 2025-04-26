@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "category": "Basics",
+    "title": "Stay Relaxed",
+    "description": "Encourage models to stay loose — stiffness shows easily."
+  },
+  {
+    "category": "Face",
+    "title": "Jawline Definition",
+    "description": "Ask the model to push their forehead slightly forward to accentuate the jawline."
+  },
+  {
+    "category": "Hands",
+    "title": "Soft Hands",
+    "description": "Avoid flat palms; keep hands gently curved for elegance."
+  },
+  {
+    "category": "Legs",
+    "title": "Weight on Rear Foot",
+    "description": "Distribute weight onto the back foot to make poses look natural."
+  },
+  {
+    "category": "Body",
+    "title": "Create Curves",
+    "description": "Shift hips or shoulders to create a gentle S-curve in the body."
+  },
+  {
+    "category": "Composition",
+    "title": "Use Leading Lines",
+    "description": "Compose images so natural lines (roads, arms) lead the viewer's eye to the subject."
+  },
+  {
+    "category": "Equipment",
+    "title": "Lens Choice Matters",
+    "description": "A 50mm or 85mm prime lens flatters faces better than a wide-angle lens."
+  }
+]
