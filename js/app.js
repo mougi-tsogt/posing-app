@@ -1,3 +1,4 @@
+
 let poses = [];
 let favourites = JSON.parse(localStorage.getItem('favourites')) || [];
 
@@ -30,14 +31,14 @@ function loadPoses(category = '') {
   poses.filter(p => !category || p.category === category).forEach(p => {
     const div = document.createElement('div');
     div.className = 'pose';
-    div.innerHTML = \`
-      <h3>\${p.title}</h3>
-      <img src="images/\${p.image}" alt="\${p.title}" />
-      <p>\${p.description}</p>
-      <button onclick="toggleFavourite('\${p.id}')">
-        \${favourites.includes(p.id) ? '❤️' : '🤍'} Favourite
+    div.innerHTML = `
+      <h3>${p.title}</h3>
+      <img src="images/${p.image}" alt="${p.title}" />
+      <p>${p.description}</p>
+      <button onclick="toggleFavourite('${p.id}')">
+        ${favourites.includes(p.id) ? '❤️' : '🤍'} Favourite
       </button>
-    \`;
+    `;
     section.appendChild(div);
   });
 }
@@ -61,11 +62,11 @@ function showFavourites() {
   poses.filter(p => favourites.includes(p.id)).forEach(p => {
     const div = document.createElement('div');
     div.className = 'pose';
-    div.innerHTML = \`
-      <h3>\${p.title}</h3>
-      <img src="images/\${p.image}" alt="\${p.title}" />
-      <p>\${p.description}</p>
-    \`;
+    div.innerHTML = `
+      <h3>${p.title}</h3>
+      <img src="images/${p.image}" alt="${p.title}" />
+      <p>${p.description}</p>
+    `;
     favSection.appendChild(div);
   });
 }
