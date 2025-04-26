@@ -3,70 +3,84 @@
     "id": "children_1",
     "title": "Natural Expressions",
     "image": "children_1.png",
-    "description": "Capture genuine emotions and behaviour by photographing children at their own eye level.",
+    "description": "Capture genuine emotions by photographing kids at their own eye level.",
     "category": "Children"
   },
   {
     "id": "children_2",
-    "title": "Favourite Toy",
+    "title": "With Favourite Toy",
     "image": "children_2.png",
-    "description": "When photographing children, remember to shoot from their eye level! Concerning poses, though, let them be 'as they are' and try to capture their natural expressions, emotions and behavior.",
+    "description": "Let them play with a cherished toy to help them relax.",
     "category": "Children"
   },
   {
-    "id": "children_3",
-    "title": "Resting Pose",
-    "image": "children_3.png",
-    "description": "A relaxed shot of the child laying on one arm, either straight or bent.",
-    "category": "Children"
+    "id": "couples_1",
+    "title": "First Love Vibes",
+    "image": "couples_1.png",
+    "description": "Ask them to recall how they felt when they first met — natural emotion follows.",
+    "category": "Couples"
   },
   {
-    "id": "children_4",
-    "title": "Everyday Moments",
-    "image": "children_4.png",
-    "description": "Photograph them doing familiar activities like painting, reading, or playing.",
-    "category": "Children"
+    "id": "couples_2",
+    "title": "Arm on Chest",
+    "image": "couples_2.png",
+    "description": "A warm pose with her arm on his chest — great for close-ups.",
+    "category": "Couples"
   },
   {
-    "id": "children_5",
-    "title": "Unaware Candid",
-    "image": "children_5.png",
-    "description": "Set up so the child is focused on their own activity and unaware of the camera.",
-    "category": "Children"
+    "id": "women_1",
+    "title": "Shoulder Glance",
+    "image": "women_1.png",
+    "description": "Ask her to look over her shoulder — adds charm from a new angle.",
+    "category": "Women"
   },
   {
-    "id": "children_6",
-    "title": "Story Time",
-    "image": "children_6.png",
-    "description": "Include a parent reading together with the child to create a warm and engaging scene.",
-    "category": "Children"
+    "id": "women_2",
+    "title": "Hands by Face",
+    "image": "women_2.png",
+    "description": "Experiment with soft hand placements near the face, no flat palms.",
+    "category": "Women"
   },
   {
-    "id": "children_7",
-    "title": "Joyful Reactions",
-    "image": "children_7.png",
-    "description": "Look out for moments of laughter or shouting for emotional, memorable shots.",
-    "category": "Children"
+    "id": "men_1",
+    "title": "Confident Arms Crossed",
+    "image": "men_1.png",
+    "description": "Arms crossed and upright posture show strength and ease.",
+    "category": "Men"
   },
   {
-    "id": "children_8",
-    "title": "Funny Faces",
-    "image": "children_8.png",
-    "description": "Ask them to show a funny face \u2014 kids often go all out!",
-    "category": "Children"
+    "id": "men_2",
+    "title": "Hands in Pockets",
+    "image": "men_2.png",
+    "description": "Relaxed stance with hands in pockets gives a casual vibe.",
+    "category": "Men"
   },
   {
-    "id": "children_9",
-    "title": "Leaning Portrait",
-    "image": "children_9.png",
-    "description": "Simple portrait with arms resting on an object \u2014 suitable for sitting or standing.",
-    "category": "Children"
+    "id": "groups_1",
+    "title": "Family on Bed",
+    "image": "groups_1.png",
+    "description": "Capture family lying casually together — great indoors or out.",
+    "category": "Groups"
   },
   {
-    "id": "children_10",
-    "title": "Top-Down Angle",
-    "image": "children_10.png",
-    "description": "Try shooting from above for an interesting and playful viewpoint.",
-    "category": "Children"
+    "id": "groups_2",
+    "title": "With Pets",
+    "image": "groups_2.png",
+    "description": "Include pets in the family frame — it adds emotion and energy.",
+    "category": "Groups"
+  },
+  {
+    "id": "wedding_1",
+    "title": "First Dance",
+    "image": "wedding_1.png",
+    "description": "Capture the couple mid-spin or a quiet close-up during their first dance.",
+    "category": "Wedding"
+  },
+  {
+    "id": "glamour_1",
+    "title": "Soft Recline",
+    "image": "glamour_1.png",
+    "description": "Model lies down relaxed — can be on grass, bed, or lounge.",
+    "category": "Glamour"
   }
 ]
